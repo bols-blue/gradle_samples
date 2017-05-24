@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin_main.iml" group="XCodeBuilderPlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/XCodeBuilderPlugin_test.iml" group="XCodeBuilderPlugin" />
+    </modules>
+  </component>
+</project>

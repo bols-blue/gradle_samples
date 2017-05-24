@@ -1,0 +1,16 @@
+buildscript {
+    repositories {
+        maven {
+            url uri('http://bols.nyacom.net/maven/')
+        }
+    }
+    dependencies {
+        classpath group: 'jp.lnc.java.gradle', name: 'XCodeBuilderPlugin',
+				  version: '0.12'
+    }
+}
+apply plugin: 'org.samples.greeting'
+
+task greeting(type: jp.lnc.java.gradle.GreetingTask) {
+    greeting = 'howdy!'
+}
